@@ -37,6 +37,10 @@ body {
     top: 0;
 }
 
+#introBlock2 {
+    transform: translateY(100%);
+}
+
 .images-shower img {
     width: 100%;
     object-fit: contain;
